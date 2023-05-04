@@ -1,0 +1,262 @@
+{
+  "PAID_ARGen": {
+    "name": "首次突击",
+    "desc": "突击步枪弹匣中的第一颗子弹会造成额外伤害",
+    "tabTitle": "战斗"
+  },
+  "PAID_PistolSpec": {
+    "name": "手枪扩容",
+    "desc": "手枪的弹匣容量大大增加",
+    "tabTitle": "战斗"
+  },
+  "PAID_LightAmmo": {
+    "name": "灵巧手指",
+    "desc": "使用轻型弹药的武器装填速度更快",
+    "tabTitle": "战斗"
+  },
+  "PAID_BowSpec": {
+    "name": "弓箭专家",
+    "desc": "弓箭的拉射和装填速度更快，并且随着时间的推移可以重新生成箭",
+    "tabTitle": "战斗"
+  },
+  "PAID_MechArcher": {
+    "name": "机械弓手",
+    "desc": "接收爆炸和冲击波弓",
+    "tabTitle": "战斗"
+  },
+  "PAID_DemoMunitions": {
+    "name": "爆破弹药",
+    "desc": "你摧毁的物体有几率掉落炸药，不包括玩家建造的结构",
+    "tabTitle": "战斗"
+  },
+  "PAID_ARRecycle": {
+    "name": "再造步枪",
+    "desc": "使用中型弹药的武器有机会不消耗弹药",
+    "tabTitle": "战斗"
+  },
+  "PAID_OGArmory": {
+    "name": "战术军械",
+    "desc": "接收稀有战术AR和战斗霰弹枪",
+    "tabTitle": "战斗"
+  },
+  "PAID_Multitasker": {
+    "name": "急行再装",
+    "desc": "冲刺时候将缓慢重新装填您装备的霰弹枪",
+    "tabTitle": "战斗"
+  },
+  "PAID_Gravitas": {
+    "name": "飞行专家",
+    "desc": "获得部署滑翔机的能力",
+    "tabTitle": "改变规则"
+  },
+  "PAID_ChugGunner": {
+    "name": "突突炮手",
+    "desc": "收到一门突突壶大炮",
+    "tabTitle": "改变规则"
+  },
+  "PAID_Acrobat": {
+    "name": "增强跑酷",
+    "desc": "翻越或攀爬后短时间内不消耗体力",
+    "tabTitle": "机动和侦查"
+  },
+  "PAID_FuelEfficient": {
+    "name": "动力提升",
+    "desc": "你驾驶的车辆的生命值增加250，且只在加速时消耗燃料",
+    "tabTitle": "机动和侦查"
+  },
+  "PAID_Bloodhound": {
+    "name": "寻血猎犬",
+    "desc": "被你的DMR步枪或弓箭击中的敌人会在短时间内被标记",
+    "tabTitle": "机动和侦查"
+  },
+  "PAID_BushRanger": {
+    "name": "丛林勇士",
+    "desc": "你在树丛中躲避时可以获得生命值和部分护盾",
+    "tabTitle": "机动和侦查"
+  },
+  "PAID_PartyTime": {
+    "name": "派对时间",
+    "desc": "每隔30秒时间获得一个气球",
+    "tabTitle": "机动和侦查"
+  },
+  "PAID_TrickedOut": {
+    "name": "车辆改装",
+    "desc": "进入汽车或卡车会自动装备越野轮胎和捕牛器车铲",
+    "tabTitle": "机动和侦查"
+  },
+  "PAID_StormScout": {
+    "name": "天气预报",
+    "desc": "你总能提前看到下一个即将出现的风暴圈位置",
+    "tabTitle": "机动和侦查"
+  },
+  "PAID_StormMark": {
+    "name": "风暴标记",
+    "desc": "当风暴圈变化时，可以短暂的标记该区域附近的敌人",
+    "tabTitle": "机动和侦查"
+  },
+  "PAID_SprintJump": {
+    "name": "翱翔冲刺",
+    "desc": "冲刺时跳跃可以跳得更高，且获得低重力效果",
+    "tabTitle": "机动和侦查"
+  },
+  "PAID_ChugMed": {
+    "name": "飞溅医生",
+    "desc": "你有机会在你打开的每个宝箱中获得突突壶",
+    "tabTitle": "战利品"
+  },
+  "PAID_BlueFish": {
+    "name": "水母垂钓",
+    "desc": "收到一根鱼竿，你可以用它来在任何地方钓鱼，但你只能钓到水母",
+    "tabTitle": "战利品"
+  },
+  "PAID_SiphonShotgun": {
+    "name": "虹吸散弹",
+    "desc": "伤害敌人获得体力和护盾",
+    "tabTitle": "战斗"
+  },
+  "PAID_SkillCheck": {
+    "name": "品质检测",
+    "desc": "使用普通武器或不常见武器消灭敌人时获得50体力和25点护盾",
+    "tabTitle": "改变规则"
+  },
+  "PAID_DangerHero": {
+    "name": "危机英雄",
+    "desc": "当你的护盾断裂时，你会短暂地恢复生命值并获得移动速度",
+    "tabTitle": "战斗"
+  },
+  "PAID_Plunder": {
+    "name": "蕉宝掠夺",
+    "desc": "收到一张藏宝图，将带您前往埋藏的宝藏",
+    "tabTitle": "战利品"
+  },
+  "PAID_ZeroShield": {
+    "name": "零点时机",
+    "desc": "打破敌人的盾牌时获得零点冲刺",
+    "tabTitle": "机动和侦查"
+  },
+  "PAID_RiftJector": {
+    "name": "裂隙喷射",
+    "desc": "当你的护盾破碎时你将被蝴蝶裂隙传送至空中",
+    "tabTitle": "战斗"
+  },
+  "PAID_ShadowStrike": {
+    "name": "幽灵打击",
+    "desc": "有机会在你打开的容器中获得影幕弹",
+    "tabTitle": "机动和侦查"
+  },
+  "PAID_IcySlide": {
+    "name": "冰上滑梯",
+    "desc": "在滑铲时脚下生成结冰效果提速滑行",
+    "tabTitle": "机动和侦查"
+  },
+  "PAID_HunterGather": {
+    "name": "收割者",
+    "desc": "被你打碎的落叶可以掉落灌木丛手雷，实物以及一些有用的东西",
+    "tabTitle": "战利品"
+  },
+  "PAID_DeftHands": {
+    "name": "神话军需",
+    "desc": "获得一把神话品质(金色最高等级)的手枪",
+    "tabTitle": "改变规则"
+  },
+  "PAID_GrantKeys": {
+    "name": "授予钥匙",
+    "desc": "获得两把钥匙(钥匙可以打开全息武器箱获得武器)",
+    "tabTitle": "战利品"
+  },
+  "PAID_SniperAmmo": {
+    "name": "狙击弹药",
+    "desc": "狙击枪弹匣扩容多一发子弹",
+    "tabTitle": "战斗"
+  },
+  "PAID_PistolLastShot": {
+    "name": "最后两枪",
+    "desc": "手枪最后两发子弹提高伤害",
+    "tabTitle": "战斗"
+  },
+  "PAID_RandomExotic": {
+    "name": "异域背包",
+    "desc": "获得一把随机异域武器",
+    "tabTitle": "战斗"
+  },
+  "PAID_SlapMed": {
+    "name": "SLAP盈余",
+    "desc": "你会发现在你打开的每个宝箱中都有一个额外的SLAP体力果汁",
+    "tabTitle": "战利品"
+  },
+  "PAID_SmoothSlide": {
+    "name": "弹药滑道",
+    "desc": "滑行时获得中型子弹",
+    "tabTitle": "战利品"
+  },
+  "PAID_TreasureHunter": {
+    "name": "寻宝猎人",
+    "desc": "第一次进入命名地点时会标记附近所有宝箱",
+    "tabTitle": "战利品"
+  },
+  "PAID_DumpsterDiving": {
+    "name": "垃圾回收",
+    "desc": "离开藏身处附近掉落战利品，每个藏身点仅此一次",
+    "tabTitle": "战利品"
+  },
+  "PAID_DignifiedFinish": {
+    "name": "威风落幕",
+    "desc": "武士刀消灭敌人后刷新一次冷却",
+    "tabTitle": "战斗"
+  },
+  "PAID_ShotgunRecycle": {
+    "name": "散弹回收",
+    "desc": "散弹枪有机会不消耗弹药",
+    "tabTitle": "战斗"
+  },
+  "PAID_MediumAmp": {
+    "name": "中型扩容",
+    "desc": "提升中型武器的弹夹容量上限",
+    "tabTitle": "战斗"
+  },
+  "PAID_PizzaParty": {
+    "name": "游戏时间",
+    "desc": "授予披萨派对和一些突突飞溅果汁",
+    "tabTitle": "战斗"
+  },
+  "PAID_ChargeKnockArmory": {
+    "name": "孤注一掷",
+    "desc": "授予一把充分散弹枪和燧石手枪",
+    "tabTitle": "战斗"
+  },
+  "PAID_GrindRailHeal": {
+    "name": "滑轨战士",
+    "desc": "在滑轨或滑索上恢复生命值和部分护盾，风暴圈中除外",
+    "tabTitle": "机动和侦查"
+  },
+  "PAID_AmphibiousAssault": {
+    "name": "水上勇士",
+    "desc": "游泳时移动速度更快，恢复生命值和部分护盾，风暴圈中除外",
+    "tabTitle": "改变规则"
+  },
+  "PAID_HopHappy": {
+    "name": "春季井喷",
+    "desc": "授予一个弹蛋发射器和弹蛋",
+    "tabTitle": "改变规则"
+  },
+  "PAID_SMGLastShot": {
+    "name": "冲锋完毕",
+    "desc": "冲锋枪弹匣最后3发子弹会造成额外伤害",
+    "tabTitle": "战斗"
+  },
+  "PAID_DMRRecoil": {
+    "name": "稳固之手",
+    "desc": "使用神射手步枪减少后坐力",
+    "tabTitle": "战斗"
+  },
+  "PAID_HuntersArmory": {
+    "name": "追踪军械",
+    "desc": "获得一把信号枪和追影手枪",
+    "tabTitle": "战斗"
+  },
+  "PAID_ReloadOnEmpty": {
+    "name": "危急装填",
+    "desc": "手枪在用空弹匣重新装弹时速度更快",
+    "tabTitle": "战斗"
+  }
+}
