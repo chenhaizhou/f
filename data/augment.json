@@ -254,9 +254,49 @@
     "desc": "获得一把信号枪和追影手枪",
     "tabTitle": "战斗"
   },
-  "PAID_ReloadOnEmpty": {
-    "name": "危急装填",
-    "desc": "手枪在用空弹匣重新装弹时速度更快",
+  "PAID_MediumEmptyReload": {
+    "name": "莽枪装填",
+    "desc": "突击步枪在空弹匣时会加快装填速度",
+    "tabTitle": "战斗"
+  },
+  "PAID_LootAmmoMedium": {
+    "name": "取得弹药",
+    "desc": "打开容器时获得中等武器弹药并额外获得中等武器弹药",
+    "tabTitle": "战利品"
+  },
+  "PAID_VineSlap": {
+    "name": "冲刺线",
+    "desc": "使用藤蔓、铁轨、滑索和上升滑索时获得Slap冲刺效果",
+    "tabTitle": "机动和侦查"
+  },
+  "PAID_RiderThermal": {
+    "name": "原始同伴",
+    "desc": "在骑乘动物时获得热成像视力并回复体力",
+    "tabTitle": "机动和侦查"
+  },
+  "PAID_BugBomb": {
+    "name": "野蜂武器",
+    "desc": "获得一些野蜂罐，每次淘汰都会额外获得一个",
+    "tabTitle": "战利品"
+  },
+  "PAID_ShellSlide": {
+    "name": "枪弹滑行",
+    "desc": "在滑行时获得散弹枪弹药",
+    "tabTitle": "战利品"
+  },
+  "PAID_SMGMag": {
+    "name": "SMG扩展",
+    "desc": "冲锋枪增加弹匣大小",
+    "tabTitle": "战斗"
+  },
+  "PAID_MudHeals": {
+    "name": "泥浆勇士",
+    "desc": "在被泥浆覆盖时恢复体力和护盾",
+    "tabTitle": "改变规则"
+  },
+  "PAID_ShotgunReload": {
+    "name": "迅捷装填",
+    "desc": "散弹枪装填速度更快",
     "tabTitle": "战斗"
   }
 }
