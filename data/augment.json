@@ -260,7 +260,7 @@
     "tabTitle": "战斗"
   },
   "PAID_LootAmmoMedium": {
-    "name": "取得弹药",
+    "name": "中型弹药",
     "desc": "打开容器时获得中等武器弹药并额外获得中等武器弹药",
     "tabTitle": "战利品"
   },
@@ -298,5 +298,35 @@
     "name": "迅捷装填",
     "desc": "散弹枪装填速度更快",
     "tabTitle": "战斗"
+  },
+  "PAID_LootAmmoHeavy": {
+    "name": "重型弹药",
+    "desc": "打开容器时立即获得重型弹药并获得额外的重型弹药",
+    "tabTitle": "战利品"
+  },
+  "PAID_HeavyCrit": {
+    "name": "重磅爆头",
+    "desc": "使用重型弹药武器增加爆头伤害",
+    "tabTitle": "战斗"
+  },
+  "PAID_BushMud": {
+    "name": "灌木泥泞",
+    "desc": "在大灌木丛，树叶和高草丛中时，你会被泥浆覆盖",
+    "tabTitle": "改变规则"
+  },
+  "PAID_MudThermal": {
+    "name": "热力泥浆",
+    "desc": "再被泥浆覆盖时获得热视力",
+    "tabTitle": "改变规则"
+  },
+  "PAID_SplashParty": {
+    "name": "飞溅派对",
+    "desc": "接收SALP饮料飞溅",
+    "tabTitle": "战利品"
+  },
+  "PAID_VineRedeploy": {
+    "name": "再次漫游 ",
+    "desc": "获得滑翔机 在获得对坠落伤害的免疫力时重新部署，例如退出藤蔓、铁轨、滑索或使用啤酒花植物",
+    "tabTitle": "机动和侦查"
   }
 }
