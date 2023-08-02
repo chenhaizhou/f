@@ -327,7 +327,7 @@
   "PAID_VineRedeploy": {
     "name": "再次漫游 ",
     "desc": "获得滑翔机 在获得对坠落伤害的免疫力时重新部署，例如退出藤蔓、铁轨、滑索或使用啤酒花植物",
-    "tabTitle": "战斗"
+    "tabTitle": "机动和侦查"
   },
   "PAID_ReloadOnEmpty": {
     "name": "绝望重装",
