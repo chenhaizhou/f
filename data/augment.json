@@ -339,10 +339,14 @@
     "desc": "手枪有机会不消耗弹药",
     "tabTitle": "战斗"
   },
-  
   "PAID_ScopeDmg": {
     "name": "范围齐射",
     "desc": "瞄准镜武器造成的伤害增加，但射速降低",
     "tabTitle": "战斗"
+  },
+  "PAID_FireArmory": {
+    "name": "火力军械",
+    "desc": "接收龙息霰弹枪和龙息狙击手",
+    "tabTitle": "改变规则"
   }
 }
