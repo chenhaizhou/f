@@ -348,5 +348,50 @@
     "name": "火力军械",
     "desc": "接收龙息霰弹枪和龙息狙击手",
     "tabTitle": "改变规则"
+  },
+  "PAID_BearHands": {
+    "name": "迅捷渔夫",
+    "desc": "提高游泳速度，并在游过鱼群时立即捕获",
+    "tabTitle": "战利品"
+  },
+  "PAID_SniperSiphon": {
+    "name": "狙击精英",
+    "desc": "狙击手在击中玩家时给虹吸管",
+    "tabTitle": "战斗"
+  },
+  "PAID_GoGoGoBag": {
+    "name": "随身背包",
+    "desc": "打开容器时立即获得机动性消耗品并获得额外的机动性消耗品",
+    "tabTitle": "机动和侦查"
+  },
+  "PAID_ElimResources": {
+    "name": "弹药掉落",
+    "desc": "立即获得弹药。被淘汰的玩家会掉落额外的弹药",
+    "tabTitle": "战利品"
+  },
+  "PAID_ShotgunDamage": {
+    "name": "首发喷枪",
+    "desc": "霰弹枪在第一枪时造成增加伤害，不会增加最大爆头伤害",
+    "tabTitle": "战斗"
+  },
+  "PAID_PistolDamage": {
+    "name": "手枪齐鸣",
+    "desc": "手枪降低了射速但是增加了伤害",
+    "tabTitle": "战斗"
+  },
+  "PAID_TurretEMPArmory": {
+    "name": "高电压",
+    "desc": "立即获得交易炮塔和盾牌破坏者电磁脉冲。消除授予额外的护盾破坏者电磁脉冲",
+    "tabTitle": "战利品"
+  },
+  "PAID_ExplosiveMagIncrease": {
+    "name": "爆炸盈余",
+    "desc": "立即获得火箭弹药,并在打开容器时获得额外的火箭弹药",
+    "tabTitle": "战利品"
+  },
+  "PAID_StormSurvivor": {
+    "name": "风暴逐者",
+    "desc": "减少战术冲刺时消耗的体力，在暴风圈中进一步减少体力消耗",
+    "tabTitle": "机动和侦查"
   }
 }
